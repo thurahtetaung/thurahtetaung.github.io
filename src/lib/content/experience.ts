@@ -52,8 +52,8 @@ export const experienceSection: ExperienceSectionType = {
       company: 'Expa.AI',
       companyUrl: 'https://expa.ai/',
       role: 'Software Engineer',
-      started: 'September 2021',
-      upto: 'February 2019',
+      started: 'September 2019',
+      upto: 'February 2021',
       tasks: [
         'Architecting and developing scalable backend services using Node.js.',
         'Reviewing code and providing feedback to the team members.',
